@@ -1,4 +1,5 @@
 package by.itstep.lesson;
 
-public class Task2 { //todo решить задачу
+public class Task2 {
+    String text = "text";
 }
